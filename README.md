@@ -1,6 +1,5 @@
 # CodeAlpha_StockPortfolioTracker
-A Python-based Stock Portfolio Tracker that calculates total investment value using predefined stock prices.
-# CodeAlpha Stock Portfolio Tracker
+A Python-based Stock Portfolio Tracker that calculates total investment value using predefined stock prices
 
 📌 Overview
 The Stock Portfolio Tracker is a project developed as part of the CodeAlpha internship program. It helps users manage and track their stock investments in a simple and efficient way.
