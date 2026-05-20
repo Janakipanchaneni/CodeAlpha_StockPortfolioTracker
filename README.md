@@ -1,19 +1,26 @@
 # CodeAlpha Stock Portfolio Tracker
 
-## 📌 Description
-This project is developed as part of the CodeAlpha internship program. It is a Stock Portfolio Tracker that helps manage and track stock investments.
+## 📌 Project Overview
+This project is developed as part of the CodeAlpha internship program. The Stock Portfolio Tracker helps users manage and track their stock investments in a simple and efficient way.
 
-## 🎯 Features
+## 🎯 Objective
+To build a basic stock portfolio management system that allows users to add stocks, view holdings, and track investment performance.
+
+## 🛠️ Features
 - Add stocks to portfolio
-- View holdings
-- Track investment value
-- Basic profit and loss calculation
+- View current stock holdings
+- Calculate total investment value
+- Track profit and loss (if implemented)
 
-## 🛠️ Tech Used
-- Python
+## 💻 Technologies Used
+- Python (or your actual language)
+- Basic programming concepts
+- Data structures
 
-## 👩‍💻 Author
-Janaki Panchaneni
+## 🚀 How to Run
 
-## 📌 Note
-Internship project submitted for CodeAlpha.
+### 1. Clone the repository
+```bash
+git clone https://github.com/Janakipanchaneni/CodeAlpha_StockPortfolioTracker.git
+cd CodeAlpha_StockPortfolioTracker
+python main.py
